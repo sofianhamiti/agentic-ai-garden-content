@@ -2,7 +2,7 @@
 title: "Multi-RAG Agent Blueprint"
 description: "A blueprint for implementing agents with multiple specialized retrieval-augmented generation capabilities"
 date: "2025-05-10"
-type: "blueprints"
+type: "templates"
 skillLevel: "Advanced"
 frameworks: ["LangChain", "Strands"]
 services: ["Amazon Bedrock", "Amazon OpenSearch", "AWS Lambda"]

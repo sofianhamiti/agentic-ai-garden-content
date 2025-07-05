@@ -2,7 +2,7 @@
 title: "Customer Service AI Agent"
 description: "A complete customer service AI agent project with conversational abilities and operational integration capabilities"
 date: "2025-05-25"
-type: "projects"
+type: "use-cases"
 skillLevel: "Intermediate"
 frameworks: ["Strands", "CrewAI"]
 services: ["Amazon Bedrock", "AWS Lambda", "Amazon Q"]
