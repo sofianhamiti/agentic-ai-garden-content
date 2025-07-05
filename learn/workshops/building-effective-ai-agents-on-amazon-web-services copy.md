@@ -4,7 +4,7 @@ description: "A hands-on workshop for developers to build autonomous AI agent sy
 date: 2025-05-15
 skillLevel: Advanced
 url: https://catalog.workshops.aws/building-effective-ai-agents-on-aws/en-US/
-image: "https://static.us-east-1.prod.workshops.aws/public/d0c801a8-aa9a-4b15-b270-e2fe7836f379/static/agentic-workflow.gif"
+image: "https://static.us-east-1.prod.workshops.aws/public/72f9248f-fbfb-42ce-bed4-378a1eeac837/static/agentic-workflow.gif"
 frameworks:
   - Strands
   - LangGraph
