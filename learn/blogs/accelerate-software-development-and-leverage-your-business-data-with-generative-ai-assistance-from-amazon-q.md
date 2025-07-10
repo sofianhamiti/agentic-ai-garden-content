@@ -5,7 +5,7 @@ description: Introduction to Amazon Q, a generative AI assistant for software de
 date: 2024-05-23
 image: "/images/aws-logo.svg"
 skillLevel: Beginner
-frameworks:
+frameworks: []
 services:
   - Amazon Q
 category: Blog

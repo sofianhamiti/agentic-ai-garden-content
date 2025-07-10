@@ -3,7 +3,8 @@ title: "Hello World Agent Template"
 description: "This template provides scaffolding for conversation handling, API integration, and deployment automation."
 repository: "https://github.com/aws-samples/hello-world-agent-template"
 folder: "aws-samples/hello-world-agent-template"
-frameworks: AWS CDK
+frameworks:
+  - AWS CDK
 services:
   - Amazon Bedrock
   - AWS Lambda
