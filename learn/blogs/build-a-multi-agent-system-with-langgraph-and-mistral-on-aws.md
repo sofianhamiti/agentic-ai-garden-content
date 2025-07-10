@@ -1,5 +1,4 @@
 ---
-
 title: "Build a Multi-Agent System with LangGraph and Mistral on AWS"
 url: https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-system-with-langgraph-and-mistral-on-aws/
 description: Implementation guide for creating collaborative multi-agent systems using LangGraph and Mistral models for sophisticated problem-solving

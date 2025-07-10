@@ -9,8 +9,10 @@ services:
   - AWS Lambda
   - Amazon API Gateway
 authors:
-  - [AWS](https://github.com/aws)
-  - [sofianhamiti](https://github.com/SofianHamiti)
+  - name: "AWS"
+    url: "https://github.com/aws"
+  - name: "sofianhamiti"
+    url: "https://github.com/SofianHamiti"
 ---
 
 ![Architecture Diagram](./architecture.svg)

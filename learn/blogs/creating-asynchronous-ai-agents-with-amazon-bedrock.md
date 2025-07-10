@@ -1,5 +1,4 @@
 ---
-
 title: "Creating asynchronous AI agents with Amazon Bedrock"
 url: https://aws.amazon.com/blogs/machine-learning/creating-asynchronous-ai-agents-with-amazon-bedrock/
 description: Architecture patterns for implementing asynchronous AI agents using event-driven choreography for automated business processes
