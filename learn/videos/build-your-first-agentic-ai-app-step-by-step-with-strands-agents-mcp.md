@@ -4,6 +4,7 @@ description: "In this episode of AWS Show and Tell - Gen AI, learn how to build 
 url: https://www.youtube.com/watch?v=aijS9fWB854
 date: 2025-05-01
 image: "https://img.youtube.com/vi/aijS9fWB854/sddefault.jpg"
+type: "videos"
 skillLevel: Intermediate
 frameworks:
   - Strands

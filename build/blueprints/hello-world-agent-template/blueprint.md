@@ -1,19 +1,14 @@
 ---
-title: "Hello World Agent Template"
+title: "Hello World Agent"
 description: "This template provides scaffolding for conversation handling, API integration, and deployment automation."
-repository: "https://github.com/aws-samples/hello-world-agent-template"
-folder: "aws-samples/hello-world-agent-template"
-frameworks:
-  - AWS CDK
-services:
-  - Amazon Bedrock
-  - AWS Lambda
-  - Amazon API Gateway
+url: "https://github.com/sofianhamiti/agentic-ai-garden"
+type: "blueprints"
 authors:
   - name: "AWS"
     url: "https://github.com/aws"
   - name: "sofianhamiti"
     url: "https://github.com/SofianHamiti"
+date: "2025-01-15"
 ---
 
 ![Architecture Diagram](./architecture.svg)

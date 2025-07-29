@@ -4,6 +4,7 @@ description: "Learn about Strands Agents, an open-source framework built by AWS 
 url: https://www.youtube.com/watch?v=Ausm87d5Ry8
 date: 2025-05-16
 image: "https://img.youtube.com/vi/Ausm87d5Ry8/sddefault.jpg"
+type: "videos"
 skillLevel: "Intermediate"
 frameworks:
   - Strands

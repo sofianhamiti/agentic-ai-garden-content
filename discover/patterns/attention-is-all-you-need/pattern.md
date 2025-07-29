@@ -1,18 +1,13 @@
 ---
 title: "Attention Is All You Need"
 description: "Groundbreaking research paper that introduced the Transformer architecture, revolutionizing natural language processing"
-excerpt: "The seminal paper that introduced the Transformer model, becoming the foundation for modern large language models like GPT and BERT"
-url: "https://arxiv.org/abs/1706.03762"
-image: "/images/aws-logo.svg"
 type: "patterns"
-date: "2017-06-12"
-skillLevel: "Advanced"
-frameworks: ["PyTorch", "TensorFlow"]
-services: ["Research"]
-category: "Deep Learning"
-industry: "Research"
-pricing: "Free"
-company: "Google Research"
+authors:
+  - name: "AWS"
+    url: "https://github.com/aws"
+  - name: "sofianhamiti"
+    url: "https://github.com/SofianHamiti"
+date: "2025-01-15"
 ---
 
 # Attention Is All You Need
